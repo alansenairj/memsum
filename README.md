@@ -15,6 +15,7 @@ This script is used to filter a sum of memory used by a keyword. It is very good
 # ./memsum [L]OCAL=NO
 
 # Memsum3 - It is more specific and uses only one keyword
+it can be used in old OSs without numfmt
 
 ![image](https://user-images.githubusercontent.com/20565821/159482539-7c60b325-816c-4690-b6a7-b25f6853a50a.png)
 
