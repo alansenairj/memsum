@@ -1,6 +1,9 @@
 # memsum
 This script is used to filter a sum of memory using a single keyword. It is very good way to sum outside connections to oracle database for exemple. It filters a keyword command  from ps output. 
 
+For installation:  create a file in /usr/local/bin/ (Fedora)
+
+
 #This script filter and sum memory by a command. You must run like this:
 
 # ./memsum.sh chrome
